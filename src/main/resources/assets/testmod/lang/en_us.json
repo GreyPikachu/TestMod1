@@ -1,3 +1,5 @@
 {
-  "item.testmod.cup": "CUP"
+  "item.testmod.cup": "Cup",
+  "block.testmod.coffee_block": "Block of Coffee",
+  "block.testmod.fox_block": "Block of Foxes"
 }

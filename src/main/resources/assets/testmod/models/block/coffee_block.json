@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "testmod:block/coffee_block_back",
+    "up": "testmod:block/coffee_block_top",
+    "north": "testmod:block/coffee_block_walls",
+    "east": "testmod:block/coffee_block_walls",
+    "south": "testmod:block/coffee_block_walls",
+    "west": "testmod:block/coffee_block_walls",
+    "particle": "testmod:block/coffee_block_top"
+  }
+}

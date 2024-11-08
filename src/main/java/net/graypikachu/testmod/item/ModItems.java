@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item CUP = registerItem("cup", new Item(new Item.Settings()));
+    public static final Item CUP = registerItem("cup", new Item(new Item.Settings().maxCount(16)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(TestMod.MOD_ID, name), item);
