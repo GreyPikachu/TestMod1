@@ -20,7 +20,11 @@ public class ModBlocks {
 
     public static final Block FOX_BLOCK = registerBlock("fox_block",
             new Block(AbstractBlock.Settings.create().strength(5f)
-                    .requiresTool().sounds(BlockSoundGroup.CORAL).liquid()));
+                    .requiresTool().sounds(BlockSoundGroup.CORAL)));
+
+    public static final Block FOX_BLOCK_BROKEN = registerBlock("fox_block_broken",
+            new Block(AbstractBlock.Settings.create().strength(2f)
+                    .requiresTool().sounds(BlockSoundGroup.MOSS_BLOCK)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

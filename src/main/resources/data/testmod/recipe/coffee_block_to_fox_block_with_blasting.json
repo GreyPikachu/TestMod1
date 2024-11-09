@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingame": 10,
+  "experience": 20.0,
+  "group": "fox_block",
+  "ingredient": {
+    "item": "testmod:coffee_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "testmod:fox_block"
+  }
+}

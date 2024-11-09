@@ -1,5 +1,9 @@
 {
   "item.testmod.cup": "Чашка",
   "block.testmod.coffee_block": "Блок Кофе",
-  "block.testmod.fox_block": "Блок Лисиц"
+  "block.testmod.fox_block": "Блок Лисиц",
+  "block.testmod.fox_block_broken": "Блок Сломанных Лисиц",
+
+  "itemgroup.testmod.coffee_items": "Кофейные предметы",
+  "itemgroup.testmod.fox_items": "Лисицыны предметы"
 }

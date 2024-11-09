@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "$": {
+      "item": "testmod:cup"
+    }
+  },
+  "pattern": [
+    "$$$",
+    "$$$",
+    "$$$"
+  ],
+  "result": {
+    "count": 1,
+    "id": "testmod:coffee_block"
+  }
+}

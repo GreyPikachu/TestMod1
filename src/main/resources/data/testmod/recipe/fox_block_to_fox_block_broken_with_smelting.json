@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "fox_block",
+  "ingredient": {
+    "item": "testmod:fox_block_broken"
+  },
+  "result": {
+    "id": "testmod:fox_block"
+  }
+}
