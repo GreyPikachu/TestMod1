@@ -28,6 +28,7 @@ public class ModItemGroup {
                     .entries((displayContext, entries) -> {
                         entries.add(ModBlocks.FOX_BLOCK);
                         entries.add(ModBlocks.FOX_BLOCK_BROKEN);
+                        entries.add(ModItems.CHISEL);
                     }).build());
 
 

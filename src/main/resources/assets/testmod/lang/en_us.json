@@ -1,5 +1,6 @@
 {
   "item.testmod.cup": "Cup",
+  "item.testmod.chisel": "Chisel",
   "block.testmod.coffee_block": "Block of Coffee",
   "block.testmod.fox_block": "Block of Foxes",
   "block.testmod.fox_block_broken": "Block of Broken Foxes",
